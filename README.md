@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Gustavo.
+- 👀 I’m interested in web development in general.
+- 🌱 I’m currently learning node and react js.
