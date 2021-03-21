@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gustavo.
-- 👀 I’m interested in software development in general.
-- 🌱 I’m currently learning NodeJS and ReactJS.
-- :smile: I hope you guys enjoy my code!!!
+- :wave: Hi, I’m Gustavo.
+- :eyes: I’m interested in web development in general.
+- :seedling: I’m currently learning NodeJS and ReactJS.
+- :grin: I hope you guys enjoy my code!!!
