@@ -1,4 +1,4 @@
 - :wave: Hi, I’m Gustavo.
 - :eyes: I’m interested in web development in general.
-- :seedling: I’m currently learning NodeJS and ReactJS.
+- :seedling: I’m currently learning Node and React.
 - :grin: I hope you guys enjoy my code!!!
