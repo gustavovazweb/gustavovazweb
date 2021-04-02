@@ -1,4 +1,4 @@
-- :wave: Hi, I’m Gustavo.
-- :eyes: I’m interested in web development in general.
-- :seedling: I’m currently learning Node.js and React/React Native.
-- :grin: Feel free and take a look at my personal projects!!!
+- :wave: Hi, I'm Gustavo.
+- :eyes: I'm interested in software development in general and also in cyber security.
+- :seedling: I'm currently using Node.js and React/React Native to develop my projects.
+- :grin: Feel free and take a look at them!!!
