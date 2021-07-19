@@ -1,4 +1,4 @@
 - :wave: Hi, I'm Gustavo.
 - :eyes: I'm interested in software development in general and I'm also into cybersecurity.
-- :computer: I'm currently developing JavaScript/TypeScript applications with Node.js and React/React Native.
+- :computer: I'm currently developing JavaScript / TypeScript apps with Node.js and ReactJS / NextJS, plus some PHP apps as well.
 - :grin: Feel free to take a look at them!!!
